@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\OneDrive\Documents\Programming\C++ Intro\MasterCipher\MasterCipher\Source.cpp(127,20): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive\Documents\Programming\C++ Intro\MasterCipher\MasterCipher\Source.cpp(459,20): warning C4018: '<': signed/unsigned mismatch
+  MasterCipher.vcxproj -> D:\OneDrive\Documents\Programming\C++ Intro\MasterCipher\Debug\MasterCipher.exe
