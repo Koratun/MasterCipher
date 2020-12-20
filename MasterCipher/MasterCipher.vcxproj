@@ -139,11 +139,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Caesar.cpp" />
+    <ClCompile Include="Cipher.cpp" />
     <ClCompile Include="functions.cpp" />
+    <ClCompile Include="Polybius.cpp" />
+    <ClCompile Include="Polymorphic.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Caesar.h" />
+    <ClInclude Include="Cipher.h" />
     <ClInclude Include="functions.h" />
+    <ClInclude Include="Polybius.h" />
+    <ClInclude Include="Polymorphic.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
